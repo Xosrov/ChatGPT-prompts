@@ -3,7 +3,7 @@
 
 Aggregation of useful ChatGPT prompts I use often.
 * [Jailbreaking](#jailbreaking)
-* [Writing Resume / Cover Letter](#writing-resume---cover-letter)
+* [Helping with resume](#helping-with-resume)
 * [Evading AI detection](#evading-ai-detection)
 * [TODO](#todo)
 
@@ -15,7 +15,7 @@ Coaxing ChatGPT into generating "harmful" content. You can search "ChatGPT jailb
 
 OpenAI [is working on mitigating this issues](https://openai.com/research/gpt-4#steerability), and might ban or restrict your account doing this, so be cautious.
 
-## Writing Resume / Cover Letter
+## Helping with resume
 
 ChatGPT is a great tool for job seekers, and helps offload some redundant and time-consuming tasks, and focus on more important ones.  
 
