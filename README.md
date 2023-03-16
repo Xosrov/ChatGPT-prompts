@@ -3,8 +3,9 @@
 
 Aggregation of useful ChatGPT prompts I use often.
 * [Jailbreaking](#jailbreaking)
-* [Helping with resume](#helping-with-resume)
-* [Evading AI detection](#evading-ai-detection)
+* [Helping With Resume](#helping-with-resume)
+* [Evading AI Detection](#evading-ai-detection)
+* [Generating Prompts](#generating-prompts)
 * [TODO](#todo)
 
 <hr />
@@ -15,7 +16,7 @@ Coaxing ChatGPT into generating "harmful" content. You can search "ChatGPT jailb
 
 OpenAI [is working on mitigating this issues](https://openai.com/research/gpt-4#steerability), and might ban or restrict your account doing this, so be cautious.
 
-## Helping with resume
+## Helping With Resume
 
 ChatGPT is a great tool for job seekers, and helps offload some redundant and time-consuming tasks, and focus on more important ones.  
 
@@ -55,7 +56,7 @@ Type "I Accept" If you accept these rules.
 
 4. Now, ask any question. For example, "Write me a cover letter".  
 
-## Evading AI detection
+## Evading AI Detection
 
 Many websites are popping up that detect AI-written content. Some examples include [GPTZero](https://gptzero.me/) and [ContentAtScale](https://contentatscale.ai/ai-content-detector/).  
 One way to mitigate this is by using tools like [Quillbot](https://quillbot.com/).  
@@ -67,6 +68,19 @@ When it comes to writing content, two factors are crucial, "perplexity" and "bur
 ``
 [AI GENERATED TEXT HERE]
 ``
+``` 
+
+## Generating Prompts  
+
+For all the prompts listed above, as well as any others you use, you can [utilize ChatGPT](https://www.skool.com/chatgpt/promptgenerator?p=1e5ede93) to improve them through an iterative process and generate a more effective prompt.  
+1. First use this:  
+```txt
+I want you to become my Prompt Creator. Your goal is to help me craft the best possible prompt for my needs. The prompt will be used by you, ChatGPT. You will follow the following process: 1. Your first response will be to ask me what the prompt should be about. I will provide my answer, but we will need to improve it through continual iterations by going through the next steps. 2. Based on my input, you will generate 3 sections. a) Revised prompt (provide your rewritten prompt. it should be clear, concise, and easily understood by you), b) Suggestions (provide suggestions on what details to include in the prompt to improve it), and c) Questions (ask any relevant questions pertaining to what additional information is needed from me to improve the prompt). 3. We will continue this iterative process with me providing additional information to you and you updating the prompt in the Revised prompt section until it's complete.
 ```  
+2. Now write your promot, for example a prompt used in this document.  
+
+3.Answer the questions ChatGPT asks to generate a new prompt with more detail. For example, it might ask you to provide a writing style or more context about what the promot is about.
+
+
 
 ## TODO...
